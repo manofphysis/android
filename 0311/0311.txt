@@ -1,0 +1,9 @@
+https://gs.statcounter.com/
+https://www.tiobe.com/tiobe-index/
+wsl2
+https://developer.android.com/?hl=ko
+https://www.bai.or.kr/
+
+이클립스 재단의 Eclipse
+JetBrains 사의 IntelliJ IDEA 줄여서 (IJ)
+썬 마이크로시스템에서 개발한(Oracle...) 의 NetBeans
